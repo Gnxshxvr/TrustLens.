@@ -19,6 +19,8 @@ This model aggregates neighborhood features across two hops, enabling it to capt
 
 The graph_score is further utilized downstream for fraud detection, risk ranking, or alert prioritization, depending on the system's objective.
 
+In this project , we bring in the concept of Remote Graphical Neural Network (RGNN) - A minimal based neural networking dynamics.
+
 Posssible future version spinoffs:
 1. Blockchain to prevent fake flagging and unflagging by scammmers/potential scammers
 2. PAYMENT GATEWAY TO PREVENT ON SIGHT SCAMS TOO.
